@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @handayoung11
+- 👀 I’m interested in Backend and Frontend.
+- 🌱 I’m currently learning JPA and typescript.
+- 📫 mail: handayoung11@gmail.com
