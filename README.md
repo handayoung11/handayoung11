@@ -4,13 +4,13 @@
 - 📫 mail: handayoung11@gmail.com
 ### My Repositories
   - [Algorithm](//github.com/handayoung11/algorithm)  
-lang: java  
+lang: Java  
 [My Algorithm Profile](https://solved.ac/profile/handayoung11)
 ---
   - [Hacker News Client web](//github.com/handayoung11/hacker-news-client)  
-lang: TypeScript
+lang: TypeScript  
 used tool: parcel
 ![image](https://user-images.githubusercontent.com/37053970/140653922-6c667d6c-d329-4024-bb43-4b2ad12082c9.png)
 ---
   - [jpa-basic](//github.com/handayoung11/jpa-basic)  
-skill: jpa(hibernate)
+skill: JPA(hibernate)
