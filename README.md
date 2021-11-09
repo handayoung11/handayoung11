@@ -16,7 +16,8 @@ used tool: parcel
 - [startup-namer](https://github.com/handayoung11/startup-namer)  
 lang: Dart  
 skill: Flutter  
-<img src='https://user-images.githubusercontent.com/37053970/140892948-bf1ac5f0-d83f-48b7-8c28-ac3ff6f62332.png' width='300px' class='pl-2em'>
+![image](https://user-images.githubusercontent.com/37053970/140904275-1608dcf9-4535-4052-a6ec-3e2c48397a86.png)
+
 ---
   - [jpa-basic](//github.com/handayoung11/jpa-basic)  
 lang: JAVA
