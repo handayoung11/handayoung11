@@ -11,12 +11,13 @@ lang: Java
 - [Hacker News Client web](//github.com/handayoung11/hacker-news-client)  
 lang: TypeScript  
 used tool: parcel
-![image](https://user-images.githubusercontent.com/37053970/140653922-6c667d6c-d329-4024-bb43-4b2ad12082c9.png)
+![hacker (1)](https://user-images.githubusercontent.com/37053970/144532068-625ab8cf-1752-4eb1-b2fe-76b832db5354.png)
 ---
 - [startup-namer](https://github.com/handayoung11/startup-namer)  
 lang: Dart  
 skill: Flutter  
-![image](https://user-images.githubusercontent.com/37053970/140904275-1608dcf9-4535-4052-a6ec-3e2c48397a86.png)
+![startup_namer](https://user-images.githubusercontent.com/37053970/144531958-e1b64de7-4c3a-497d-84c7-5bcc087cfecf.jpeg)
+
 
 ---
   - [jpa-basic](//github.com/handayoung11/jpa-basic)  
