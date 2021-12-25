@@ -8,6 +8,13 @@
 lang: Java  
 [My Algorithm Profile](https://solved.ac/profile/handayoung11)
 ---
+- [JPA Shop](https://github.com/handayoung11/jpashop)  
+lang: Java  
+DB: H2  
+skill: JPA + Spring Boot  
+view template: Thymeleaf  
+![a](https://user-images.githubusercontent.com/37053970/147380519-8e13b046-e4cf-454d-9b67-28ea8705eff0.png)
+---
 - [Hacker News Client web](//github.com/handayoung11/hacker-news-client)  
 lang: TypeScript  
 used tool: parcel
