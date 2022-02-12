@@ -27,6 +27,11 @@ skill: Flutter
 
 
 ---
-  - [jpa-basic](//github.com/handayoung11/jpa-basic)  
-lang: JAVA
+- [jpa-basic](//github.com/handayoung11/jpa-basic)  
+lang: JAVA  
 skill: JPA(hibernate)
+
+---
+- [spring-data-jpa-practice](https://github.com/handayoung11/spring-data-jpa-practice)  
+lang: JAVA  
+skill: Spring Data JPA(hibernate)
