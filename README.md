@@ -4,6 +4,10 @@
 - 🌱 I’m currently studying QueryDSL and typescript.
 - 📫 mail: handayoung11@gmail.com
 ### My Key Repositories
+- [Querydsl Study](//github.com/handayoung11/querydsl-study)  
+lang: Java  
+skill: Spring Data JPA + Querydsl + Spring Boot
+---
 - [Algorithm](//github.com/handayoung11/algorithm)  
 lang: Java  
 [My Algorithm Profile](https://solved.ac/profile/handayoung11)
